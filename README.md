@@ -1,6 +1,4 @@
 - Mechanical Engineer
-- Spacecraft designer
-- I am enthusiastic about making tools and simulators, especially in robotics.
 
 <!---
 parcengiz/parcengiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
